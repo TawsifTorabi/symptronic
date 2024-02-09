@@ -1,6 +1,6 @@
 
-int IN1 = D1;
-int IN2 = D2;
+int IN1 = 5;
+int IN2 = 4;
 
 void setup() {
   pinMode(IN1, OUTPUT);
